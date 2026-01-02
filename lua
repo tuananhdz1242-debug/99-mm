@@ -19,7 +19,7 @@
 ██╔══╝  ██║╚██╔╝██║
 ███████╗██║ ╚═╝ ██║
 ╚══════╝╚═╝     ╚═╝
-                🚀 VOIDWARE — 99 Nights In The Forest 🚀
+                🚀 ANH YEU EM — 99 Nights In The Forest 🚀
 ----------------------------------------------------------------------------
   IMPORTANT:
   You must copy and use the FULL script below. Do NOT press on the link.:
