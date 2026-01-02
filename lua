@@ -24,7 +24,7 @@
   IMPORTANT:
   You must copy and use the FULL script below. Do NOT press on the link.:
 
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/VapeVoidware/VW-Add/main/loader.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tuananhdz1242-debug/99-mm/refs/heads/main/lua"))()
 
 ----------------------------------------------------------------------------
   For support head over to discord.gg/voidware
